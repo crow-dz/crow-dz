@@ -12,8 +12,8 @@
 <!--
 **Talking about Personal Stuffs:**-->
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="100%" height="20%" alt="cover" src="https://storyset.com/illustration/javascript-frameworks/amico#default&hide=Character&hide=complete" />
+<!-- Any image aligned to the right. Beware the width 
+<img width="100%" height="20%" alt="cover" src="https://storyset.com/illustration/javascript-frameworks/amico#default&hide=Character&hide=complete" />-->
 <!--
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
