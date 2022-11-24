@@ -13,7 +13,7 @@
 **Talking about Personal Stuffs:**-->
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://images.unsplash.com/photo-1469980098053-382eb10ba017?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" />
+<img width="100%" align="right" alt="Github" src="https://images.unsplash.com/photo-1469980098053-382eb10ba017?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" />
 <!--
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
