@@ -1,5 +1,5 @@
 
-## Hi, I'm Oualid Senina, a Mobile & frontend Developer.
+## Hi, I'm Oualid Senina, a full stack developer.
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/crow-dz)
